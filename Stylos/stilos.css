@@ -1,0 +1,276 @@
+.todo {
+    background: var(--1, linear-gradient(180deg, #010208 16.39%, #010206 20.51%, #040008 24.79%, #010101 30.46%, #010101 34.11%, #010101 36.21%, #010101 100%));
+}
+
+.MetaV {
+    padding-left: 49px;
+}
+
+.h12 {
+    color: #FFF;
+    font-size: 53px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 50px; /* 151.111% */
+}
+
+.metaverse {
+    font-size: 51px;
+    font-style: normal;
+    font-family: Orbitron;
+    font-weight: 700;
+    line-height: 72px; /* 130.909% */
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.ppp{
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    align-self: flex-start;
+}
+
+.vector1 {
+    margin: 0px 0px -348px 0px;
+
+}
+
+.botones {
+    display: flex;
+    width: 173px;
+    height: 54px;
+    padding: 12px 14px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 5px;
+    background: var(--3, linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%));
+}
+
+.boton1 {
+    background-color: transparent;
+    display: flex;
+    width: 173px;
+    height: 54px;
+    padding: 12px 14px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 5px;
+    border: 1px solid var(--3, #D10ED1);
+}
+
+.conntainer-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    gap: 14px;
+    background-color: rgb(14, 13, 13);
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 420px;
+}
+
+.container-derecho, .container-izquierdo {
+    padding: 20px;
+    height: 400px;
+}
+
+.pepito {
+    padding-left: 55px;
+}
+
+.container-izquierdo {
+    align-items: center;
+    text-align: start;
+    margin-top: 80px;
+}
+
+.container-izquierdo span {
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 72px; /* 130.909% */
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.container-izquierdo h2 {
+    color: #FFF;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 50px; /* 151.111% */
+}
+
+.img2 {
+    width: 282px;
+    height: 297px;
+    top: -1px;
+    left: 70px;
+}
+
+.img3 {
+    position: relative;
+    width: 286px;
+    height: 300px;
+    top: -156px;
+    left: 213px;
+}
+
+.principal {
+    text-align-last: center;
+}
+
+.word{
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.padre {    
+    padding-top: 40px;
+    padding-left: 181px;
+}
+
+.pedrito {
+    background-color: #090823;
+    width: 360px;
+    padding: 1%;
+    border-radius: 0 15px 0 15px;
+}
+
+.Discuss {
+    color: #FFF;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.working1 {
+    color: #FFF;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.botones1 {
+    display: flex;
+    width: 123px;
+    height: 40px;
+    padding: 12px 14px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 5px;
+    background: var(--3, linear-gradient(97deg, #D10ED1 12.04%, #10A3DA 81.84%));
+}
+
+.boton2 {
+    background-color: transparent;
+    display: flex;
+    width: 164px;
+    height: 39px;
+    padding: 12px 14px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 5px;
+    border: 1px solid var(--3, #D10ED1);
+}
+
+.botom{
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    align-self: center;
+    margin: -9px 0px 0px 0px;
+}
+
+.h2kk {
+    color: #FFF;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.word1 {
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.principal1 {
+    text-align-last: center;
+    padding-top: 100px;
+}
+
+.img10 {
+    padding-left: 165px;
+    padding-top: 40px;
+}
+
+.hola1 {
+    position: absolute;
+    padding-left: 522px;
+    padding-top: 250px;
+}
+
+.MetaV1 {
+    padding-left: 49px;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: var(--2, linear-gradient(97deg, #F86CF8 12.04%, #64CEF5 81.84%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.paddin {
+    padding-left: 52px;
+}
+
+.navnar1 {
+    padding-left: 100px;
+    padding-top: 100px;
+    padding: 30px;
+}
+
+.juanito {
+    padding-left: 100px;
+}
+
+.navbar3 {
+    background-color: #090823;
+}
+
+.hola {
+    color: var(--1, linear-gradient(180deg, #010208 16.39%, #010206 20.51%, #040008 24.79%, #010101 30.46%, #010101 34.11%, #010101 36.21%, #010101 100%));
+    height: 100px;
+}
